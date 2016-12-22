@@ -7,3 +7,5 @@ This was a terrible idea, but here it is in all of its hacked-together glory.
 3. Push GO!
 4. ?????
 5. Profit.
+
+There is so no warranty. Don't blame me if stuff breaks.
